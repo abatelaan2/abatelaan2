@@ -1,6 +1,20 @@
 # Introduction
 
 <p>I am a chemistry and mathematics of physical phenomena double major. I work in Dr. Yesselman's biochemistry laboratory at the University of Nebraska-Lincoln. My research focuses on writing programs that can draw the secondary structure of RNA.  I also enjoy working on my own individual projects such as modeling electromagnetic waves and modeling molecules.<p>
+  
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/abatelaan2/abatelaan2/blob/main/COVID19%205'%20UTR.png" width=270 height=480></td>
+    <td><img src="https://github.com/abatelaan2/Electrodynamics-Retarded-Fields/blob/main/Videos/EM%20Field%20Linear%20Current.gif" width=270 height=480></td>
+    <td><img src="https://github.com/abatelaan2/Electrodynamics-Retarded-Fields/blob/main/Images/B-field_Mathematical_Expression.png" width=270 height=480></td>
+    <td><img src="https://github.com/abatelaan2/Electrodynamics-Retarded-Fields/blob/main/Images/E-field Mathematical Expression.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 RNA Secondary Structure             |  Electromagnetic Waves
 :-------------------------:|:-------------------------:
