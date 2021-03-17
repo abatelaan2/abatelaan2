@@ -1,7 +1,16 @@
 # Introduction
 
 <p>I am a chemistry and mathematics of physical phenomena double major. I work in Dr. Yesselman's biochemistry laboratory at the University of Nebraska-Lincoln. My research focuses on writing programs that can draw the secondary structure of RNA.  I also enjoy working on my own individual projects such as modeling electromagnetic waves and modeling molecules.<p>
-  
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/abatelaan2/abatelaan2/blob/main/COVID19%205'%20UTR.png">
+    <img src="https://github.com/abatelaan2/Electrodynamics-Retarded-Fields/blob/main/Videos/EM%20Field%20Linear%20Current.gif"> <img src="https://github.com/abatelaan2/Electrodynamics-Retarded-Fields/blob/main/Images/B-field_Mathematical_Expression.png">
+  </div> 
+  <div class="column">
+    <img src="https://github.com/abatelaan2/abatelaan2/blob/main/COVID19%205'%20UTR.png">
+</div>
+
 <table>
   <tr>
     <td>First Screen Page</td>
