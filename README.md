@@ -1,5 +1,6 @@
 # Introduction
-<p>I am a Physical Chemistry PhD student in the Guenza Group at the University of Oregon focused on Theoretical/Computational Biophysics.<p>
+<p>I am a Physical Chemistry PhD student in the Guenza Group at the University of Oregon focused on Theoretical/Computational Biophysics.  One of my thesis research projects focuses on developing Langevin Dynamics Models which include the effects of rotational coupling.  Including rotational effects allows us to parameterize high-dimensional coarse-grained models with very accurate friction coefficients.<p>
+<p>The other thesis research project that I work on focuses on using enhanced sampling methods to study the protein GP32 binding to DNA to gain more insight on the mechanism of DNA replication.<p>
 <p>I am a chemistry and mathematics of physical phenomena double major. I work in Dr. Yesselman's biochemistry laboratory at the University of Nebraska-Lincoln. My research focuses on writing programs that can draw the secondary structure of RNA.  I also enjoy working on my own individual projects such as modeling electromagnetic waves and modeling molecules.<p>
 
 RNA Secondary Structure             |  Electromagnetic Waves
