@@ -4,7 +4,7 @@
   
 <p>The other thesis research project that I work on focuses on using enhanced sampling methods to study the protein GP32 binding to DNA to gain more insight on the mechanism of DNA replication.<p>
 <img width="1000" alt="Rotate Adenosine" src="https://github.com/abatelaan2/GP32_Enhanced_Sampling_Public/blob/main/gp32_transitions.png"> 
-<p>I am a chemistry and mathematics of physical phenomena double major. I work in Dr. Yesselman's biochemistry laboratory at the University of Nebraska-Lincoln. My research focuses on writing programs that can draw the secondary structure of RNA.  I also enjoy working on my own individual projects such as modeling electromagnetic waves and modeling molecules.<p>
+<p>I completed a chemistry and mathematics of physical phenomena double major at the University of Nebraska-Lincoln. I did undergraduate research in Dr. Yesselman's biochemistry laboratory at the University of Nebraska-Lincoln. My research focused on writing programs that can draw the secondary structure of RNA.  I also enjoy working on my own individual projects such as modeling electromagnetic waves and modeling molecules.<p>
 
 RNA Secondary Structure             |  Electromagnetic Waves
 :-------------------------:|:-------------------------:
